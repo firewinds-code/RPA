@@ -74,21 +74,14 @@
                                     <p>Dashboard</p>
                                 </a>
                             </li>
-                        </ul>
-                        <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu"
-                            data-accordion="false">
+                        
                             <li class="nav-item">
                                 <a href="{{ route('manageuser.list') }}" class="nav-link">
                                     <i class="nav-icon fas fa-users"></i>
                                     <p>Manage User</p>
                                 </a>
                             </li>
-                        </ul>
-
-
-
-                        <ul class="nav nav-item has-treeview nav-pills nav-sidebar flex-column" data-widget="treeview"
-                            role="menu" data-accordion="false">
+                       
                             <li class="nav-item">
                                 <a href="#" class="nav-link">
                                     <i class="nav-icon fas fa-star"></i>
